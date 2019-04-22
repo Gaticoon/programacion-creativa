@@ -4,15 +4,13 @@
 
 ------
 
-Entrega: **08 de Abril**
-Crear un archivo **README.md** 
-Entregar por medio de un **pull request**
+Entrega: **08 de Abril** Crear un archivo **README.md** Entregar por medio de un **pull request**
 
 ------
 
 ##### Objetivo
 
-Diseño de un programa que demuestre el uso de los conceptos **Programación Orientada a Objetos** con métodos y atributos que describan formas, **movimiento, movimiento complejo**. 
+Diseño de un programa que demuestre el uso de los conceptos **Programación Orientada a Objetos** con métodos y atributos que describan formas, **movimiento, movimiento complejo**.
 
 ------
 
@@ -28,3 +26,31 @@ El análisis de la obra construirá las reglas del certamen, ya que se deberá r
 
 ![pauta](https://cl.ly/9afdd51a5e4d/Image%202019-04-03%20at%2010.28.49%20PM.png)
 
+
+
+------
+
+
+
+Posterior al documento del certamen1 se deja el archivo entregado por alumna.
+
+
+
+Universidad del Desarrollo - Facultad de Diseño - Certamen 1 - Gabriela Navarro Risopatrón
+
+
+
+En este trabajo se puede visualizar un espiral de color turquesa, amarillo y naranja. 
+
+Este espiral se genera desde el centro, de derecha a izquierda.
+
+Cuando uno presiona la tecla "2",  simplemente cambia el color del fondo, pasa de ser negro a ser blanco, y luego al apretar la tecla "3" vuelve a cambiar el fondo a negro.
+
+Los referentes utilizados fueron elegidos por la intención de giros ópticos.
+Mientras que por otro lado, quería seguir trabajando con circulos y colores anteriores. 
+
+Adjunto imágenes en la carpeta y el link lo dejo aquí abajo.
+
+
+
+https://gifer.com/en/SozJ 
